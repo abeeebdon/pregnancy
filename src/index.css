@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Inter', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+
+.red-box{
+/* Drop shadow */
+box-shadow: -20px -28.41848px 30.16668px 0px rgba(255, 255, 255, 0.38), -20px -31.36377px 35.02597px 0px rgba(255, 255, 255, 0.45), -20px -36.83414px 42.67188px 0px rgba(255, 255, 255, 0.54), -20px -63px 65px 0px rgba(255, 255, 255, 0.75), 30px 35px 45px 0px rgba(209, 217, 230, 0.48), 30px 28px 38px 0px rgba(209, 217, 230, 0.40), 30px 24px 34px 0px rgba(209, 217, 230, 0.34), 30px 54px 67px 0px rgba(209, 217, 230, 0.67);
+}
